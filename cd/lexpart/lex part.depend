@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589088730 source:c:\users\user\documents\main.cpp\lex part\main.c
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

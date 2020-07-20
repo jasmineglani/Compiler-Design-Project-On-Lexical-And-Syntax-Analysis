@@ -1,0 +1,23 @@
+S -> a A
+A -> B b c b C
+B -> d e f
+C -> D C
+C -> D
+D -> h
+D -> E g b
+D -> F b
+D -> G g b
+D -> H b
+E -> a I
+I -> J
+I -> J i I
+J -> j
+J -> j k l
+G -> j k K m K
+G -> j
+G -> j k K
+L -> j m j
+F -> n e I g L g G f b c b C b
+H -> o e K f
+K -> j
+K -> l
